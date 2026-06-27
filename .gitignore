@@ -11,4 +11,10 @@ epsagon.egg-info
 .tox
 venv/
 .vscode
-.env
+.envnode_modules/
+dist/
+build/
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
